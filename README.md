@@ -8,11 +8,11 @@
 - Algorithm
 
 ## Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=classvar&repo=classvar-user-backend)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=Algorithm)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=Spring-Boot-study)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=meal-operations-command-MOC)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=university_wiki_crawling)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=classvar&repo=classvar-user-backend)](https://github.com/classvar/classvar-user-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=Algorithm)](https://github.com/Devconf/Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=Spring-Boot-study)](https://github.com/Devconf/Spring-Boot-study)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=meal-operations-command-MOC)](https://github.com/Devconf/meal-operations-command-MOC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=university_wiki_crawling)](https://github.com/Devconf/university_wiki_crawling)
 
 
 ## BOJ
