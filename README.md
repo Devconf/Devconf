@@ -3,6 +3,7 @@
 
 ### Now I'm studying 📖
 - Backend Develop
+- MSA
 - Cloud Native & Devops
 - Algorithm
 
