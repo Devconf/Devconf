@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hello, I'm Hyunsik Kim 🧑‍💻
+- ### 🌏 [Here's my Blog](https://Devconf.github.io/) 
+
+### Now I'm studying 📖
+- Backend Develop
+- Cloud Native & Devops
+- Algorithm
 
 ## Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=classvar&repo=classvar-user-backend)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=Algorithm)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=Spring-Boot-study)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=Spring-Boot-study)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=meal-operations-command-MOC)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devconf&repo=university_wiki_crawling)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## BOJ
