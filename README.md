@@ -1,5 +1,5 @@
 # Hello, I'm Hyunsik Kim 🧑‍💻
-- ### 🌏 [Here's my Blog](https://Devconf.github.io/) 
+- ### 🌏 [Here's my Blog](https://devconf.tistory.com/) 
 
 ### Now I'm studying 📖
 - Backend Develop
