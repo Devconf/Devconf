@@ -29,7 +29,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Devconf&layout=compact&hide=html,scss,css&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Devconf&layout=compact&hide=html,scss,css&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table> 
 
